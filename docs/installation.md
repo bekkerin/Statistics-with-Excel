@@ -1,15 +1,25 @@
-The Analysis ToolPak is an Excel add-in program that provides data analysis tools for financial, statistical and engineering data analysis.
+The Analysis ToolPak is an Excel add-in program that is not made available by default but can be easily installed.
 
 To load the Analysis ToolPak add-in, execute the following steps.
 
 1. On the File tab, click Options.
-![click options](pics/install01.png)
+
+![click options](pics/install00.png)
+
 2. Under Add-ins, select Analysis ToolPak and click on the Go button.
+
+![click options](pics/install01.png)
 
 3. Check Analysis ToolPak and click on OK.
 
+![click options](pics/install02.png)
+
 4. On the Data tab, in the Analysis group, you can now click on Data Analysis.
 
-The following dialog box below appears.
+![click options](pics/install03.png)
 
+5. The following dialog box below appears. Select any of the choices.
 
+![click options](pics/excel01.png)
+
+![click options](pics/excel02.png)
