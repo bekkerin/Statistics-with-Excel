@@ -1,4 +1,4 @@
-# Statistics-with-Excel
+# Statistics with Excel
 Tutorial for using Excel for statistical analysis in my courses. It is based on the excellent online tutorials at [Easy Excel Tips](https://web.archive.org/web/20250612024020/https://easyexceltips.com/). Unfortunately, the tutorials were taken offline. The previous link is how it shows on the [Wayback Machine]( https://web.archive.org/). I have taken the opportunity to correct some minor flawd, add links to practice files, and make  the instructions more applicable to the use in my courses.
 
 Excel is a wonderful tool to do simple statistical analysis. You do not need any complicated software like SPSS. These tutorials will tell you how to do specific statistical analysis in Excel. I have listed them in the order in which they appear in the Analysis Tools in Excel.
