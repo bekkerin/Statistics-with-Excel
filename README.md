@@ -12,7 +12,7 @@ Excel is a wonderful tool to do simple statistical analysis. You do not need any
 - [Covariance](docs/covariance.md)
 - [Descriptive Statistics](docs/descriptive_statistics.md)
 - [Exponential Smoothing](docs/exponential_smoothing.md)
-- [F-Test Two Sample for Variance](https://easyexceltips.com/f-test/)
+- [F-Test Two Sample for Variance](docs/F_test_two_sample_for_variances.md)
 - [Fourier Analysis](docs/fourier_analysis.md)
 - [Histogram](docs/histogram.md)
 - [Moving Average](docs/moving_average.md)
