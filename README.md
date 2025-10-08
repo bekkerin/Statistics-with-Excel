@@ -2,8 +2,7 @@
 Tutorial for using Excel for statistical analysis in my courses
 
 Excel is a wonderful tool to do simple statistical analysis. You do not need any complicated software like SPSS. These tutorials will tell you how to do specific statistical analysis in Excel. I have listed them in the order in which they appear in the Analysis Tools in Excel.
-- [Installing the analysis tool pack in Excel](/docs/installation.md)
-- [Descriptive statistics](https://easyexceltips.com/descriptive-statistics/)        
+- [Installing the analysis tool pack in Excel](/docs/installation.md)   
 - [Anova single factor](docs/anova_single_factor.md) 
 - [Anova: Two-Factor with Replication](docs/anova_two_factor_with_replication.md)    
 - [Anova: Two-Factor Without Replication](docs/anove_two_factor_without_replication.md)     
