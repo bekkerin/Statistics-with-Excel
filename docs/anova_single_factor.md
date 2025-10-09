@@ -6,7 +6,7 @@ If we find that at least one mean is different, you can do  pairwise comparisons
 First we  check if the means are equal.
 - On the Data tab, in the Analysis group, click Data Analysis. If it is not available, you may need to install the Analysis Toolpak.
 
-![original values](pics\anova1a.png)
+![original values](pics/anova1a.png)
 
 - Select Anova: Single Factor
 - Enter the data as in the picture below. You can click the up arrow for Input Range and Output Range to use the mouse to select.In this case, we  include the labels (row 1) so select the labels box.
