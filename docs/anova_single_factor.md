@@ -8,6 +8,8 @@ First we  check if the means are equal.
 
 ![original values](pics/anova1a.png)
 
+<img src="pics/anova1a.png" alt="original values" style="width:50%; height:auto;">
+
 - Select Anova: Single Factor
 - Enter the data as in the picture below. You can click the up arrow for Input Range and Output Range to use the mouse to select.In this case, we  include the labels (row 1) so select the labels box.
 
