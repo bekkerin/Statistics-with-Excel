@@ -20,6 +20,6 @@ Descriptive statistics show important information about a data set.
 - Enter the data in the picture.
   - you can click on the up arrow for the input range and output range to select the cells with the mouse
 
-<img src="pics/descriptive_statistics.png" alt="results" style="width:50%; height:auto;">
+<img src="pics/descriptive_statistics.png" alt="results" style="width:75%; height:auto;">
 
 

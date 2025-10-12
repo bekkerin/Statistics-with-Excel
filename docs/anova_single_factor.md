@@ -56,6 +56,23 @@ Finally, we need to see where the differences lie. Put the groups in order of av
 
 You can practice with the data on the practice tab. 
 
+# Data  in columns or rows
+
+Anova Single Factor can also analyze the data in two ways: by column and by row. In the following example, we have five students and five exams. We can check if there is a difference between exams, and if there is a difference between students. 
+
+- On the Data tab, in the Analysis group, click Data Analysis. If it is not available, you may need to install the Analysis Toolpak.
+
+<img src="pics/anova1a.png" alt="original values" style="width:50%; height:auto;">
+
+- Select Anova: Single Factor
+- Enter the data as in the picture below. You can click the up arrow for Input Range and Output Range to use the mouse to select.In this case, we  include the labels (row 1) so select the labels box.
+
+<img src="pics/anova1o.png" alt="input values" style="width:100%; height:auto;">
+
+- In the analysis by columns (exams), the p-value is greater than 0.05, so there is no difference between exams. 
+
+- In the analysis by rows (students), the p-value of 0.0000...353 is less than 0.05, so there is a difference between students. 
+
 
 
 
