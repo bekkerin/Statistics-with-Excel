@@ -12,4 +12,4 @@ This is the extension of Anova: Single Factor. It concludes whether two data set
   - but there is no difference between the exams (columns)
 - you can replicate the output on the practice tab.
 
-![results](pics/anova_two_factor_with_replication.png)
+<img src="pics/anova_two_factor_with_replication.png" alt="results" style="width:50%; height:auto;">
