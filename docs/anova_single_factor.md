@@ -3,6 +3,8 @@ Null hypothesis: H0: μ1 = μ2 = μ3 (meaning that the means/averages of all thr
 Alternative hypothesis: H1: at least one of the means is different.
 If we find that at least one mean is different, you can do  pairwise comparisons with t tests to see where there is a difference and where not. In this example, there is at least one different group. The type of t test depends on whether the two samples have equal variances or not, and whether the observations are paired. In this example, they are not paired but we don't know about the variances yet. 
 
+[practice file: download and open](practice/performing_anova_in_excel.xlsx)
+
 First we  check if the means are equal.
 - On the Data tab, in the Analysis group, click Data Analysis. If it is not available, you may need to install the Analysis Toolpak.
 
@@ -59,6 +61,8 @@ You can practice with the data on the practice tab.
 # Data  in columns or rows
 
 Anova Single Factor can also analyze the data in two ways: by column and by row. In the following example, we have five students and five exams. We can check if there is a difference between exams, and if there is a difference between students. 
+
+[practice file: download and open](practice/excel_anova_test.xlsx)
 
 - On the Data tab, in the Analysis group, click Data Analysis. If it is not available, you may need to install the Analysis Toolpak.
 
