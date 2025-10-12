@@ -1,6 +1,6 @@
 This is the extension of Anova: Single Factor. It concludes whether two data sets are related to each other or not by conducting an analysis of variance. The only difference here is that it can include more than one sample of data for each group.
 
-[practice file: download and open](pics/anova_two_factor_with_replication.xlsx)
+[practice file: download and open](practice/anova_two_factor_with_replication.xlsx)
 
 - Go to the ribbon and the Data tab at the top. Your Data Analysis section should be on the right if you have the toolpak installed. 
 - Click the Data Analysis button. 
